@@ -2,5 +2,5 @@
 
 Just another repository
 
-This is where i time a little about mysel
+This is where i type a little about myself.
    
